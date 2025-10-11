@@ -1,0 +1,135 @@
+[
+  {
+    "id":0
+  },
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 45,
+    "gender": "Male",
+    "disease": "Diabetes",
+    "admission_date": "2023-09-10",
+    "doctor": "Dr. Smith",
+    "bill_amount": 2500
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "age": 32,
+    "gender": "Female",
+    "disease": "Asthma",
+    "admission_date": "2023-07-22",
+    "doctor": "Dr. Williams",
+    "bill_amount": 1800
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "age": 60,
+    "gender": "Male",
+    "disease": "Heart Disease",
+    "admission_date": "2023-05-15",
+    "doctor": "Dr. Taylor",
+    "bill_amount": 5000
+  },
+  {
+    "id": 4,
+    "name": "Sophia Miller",
+    "age": 27,
+    "gender": "Female",
+    "disease": "Migraine",
+    "admission_date": "2023-08-03",
+    "doctor": "Dr. Johnson",
+    "bill_amount": 900
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "age": 38,
+    "gender": "Male",
+    "disease": "Fracture",
+    "admission_date": "2023-09-28",
+    "doctor": "Dr. Lee",
+    "bill_amount": 3200
+  },
+  {
+    "id": 6,
+    "name": "Olivia Davis",
+    "age": 50,
+    "gender": "Female",
+    "disease": "Hypertension",
+    "admission_date": "2023-06-18",
+    "doctor": "Dr. Clark",
+    "bill_amount": 2700
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "age": 41,
+    "gender": "Male",
+    "disease": "Kidney Stone",
+    "admission_date": "2023-09-05",
+    "doctor": "Dr. Lewis",
+    "bill_amount": 4100
+  },
+  {
+    "id": 8,
+    "name": "Ava Martinez",
+    "age": 29,
+    "gender": "Female",
+    "disease": "Flu",
+    "admission_date": "2023-09-12",
+    "doctor": "Dr. Walker",
+    "bill_amount": 700
+  },
+  {
+    "id": 9,
+    "name": "William Taylor",
+    "age": 55,
+    "gender": "Male",
+    "disease": "Cancer",
+    "admission_date": "2023-04-03",
+    "doctor": "Dr. Allen",
+    "bill_amount": 12000
+  },
+  {
+    "id": 10,
+    "name": "Isabella Thomas",
+    "age": 36,
+    "gender": "Female",
+    "disease": "Arthritis",
+    "admission_date": "2023-03-20",
+    "doctor": "Dr. Harris",
+    "bill_amount": 3500
+  },
+  {
+    "id": 11,
+    "name": "Liam White",
+    "age": 48,
+    "gender": "Male",
+    "disease": "Pneumonia",
+    "admission_date": "2023-08-25",
+    "doctor": "Dr. Hall",
+    "bill_amount": 2900
+  },
+  {
+    "id": 12,
+    "name": "Mia Scott",
+    "age": 22,
+    "gender": "Female",
+    "disease": "Allergy",
+    "admission_date": "2023-09-18",
+    "doctor": "Dr. Young",
+    "bill_amount": 600
+  },
+  {
+    "id": 13,
+    "name": "Ethan King",
+    "age": 34,
+    "gender": "Male",
+    "disease": "Back Pain",
+    "admission_date": "2023-07-11",
+    "doctor": "Dr. Wright",
+    "bill_amount": 1500
+  }
+]
